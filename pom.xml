@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.yelong0216</groupId>
 	<artifactId>yelong-compatibility</artifactId>
-	<version>2.1.0</version>
+	<version>2.2.0</version>
 	<packaging>jar</packaging>
 	<name>yelong-compatibility</name>
 	<url>https://github.com/yelong0216/yelong-compatibility.git</url>
@@ -25,7 +25,7 @@
 		<url>https://github.com/yelong0216/yelong-compatibility</url>
 	</scm>
 	<properties>
-		<yelong.version>[2.1.0,2.2.0)</yelong.version>
+		<yelong.version>[2.2.0,2.3.0)</yelong.version>
 		<yelong-mybatis-spring.version>${yelong.version}</yelong-mybatis-spring.version>
 	</properties>
 	<dependencies>
